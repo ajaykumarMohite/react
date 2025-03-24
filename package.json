@@ -1,0 +1,23 @@
+{
+  "name": "namaste-ajay",
+  "version": "1.0.0",
+  "description": "React learnings",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaykumarMohite/react.git"
+  },
+  "keywords": [
+    "reactt"
+  ],
+  "author": "Ajaykumar Mohite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaykumarMohite/react/issues"
+  },
+  "homepage": "https://github.com/ajaykumarMohite/react#readme",
+ 
+}
