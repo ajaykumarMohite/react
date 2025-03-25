@@ -2,22 +2,29 @@
   "name": "namaste-ajay",
   "version": "1.0.0",
   "description": "React learnings",
-  "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ajaykumarMohite/react.git"
   },
-  "keywords": [
-    "reactt"
-  ],
   "author": "Ajaykumar Mohite",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ajaykumarMohite/react/issues"
   },
   "homepage": "https://github.com/ajaykumarMohite/react#readme",
- 
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserlist": [
+    "last 2 chrome versions"
+  ],
+  "devDependencies": {
+    "parcel": "^2.14.2"
+  }
 }
